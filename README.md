@@ -37,7 +37,8 @@ Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale 
 
 # Mobile View
 ![image](https://github.com/user-attachments/assets/24fcfd7f-ebf3-4934-81cc-8f07920858f1)
-![image](https://github.com/user-attachments/assets/b0bfccd5-cf21-426c-b376-875c12b5d7b0)
+![image](https://github.com/user-attachments/assets/f919d97c-1275-4c90-80e2-62446a4da486)
+
 
 
 Feel free to **contribute**, **suggest improvements**, or **fork this project**! 🚀😊 
