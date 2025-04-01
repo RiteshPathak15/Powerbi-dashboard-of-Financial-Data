@@ -1,7 +1,7 @@
 **📊 Financial Dashboard - Power BI**
 This Power BI Financial Dashboard provides a comprehensive view of sales performance, profit margins, and cost analysis. It visualizes key business metrics using interactive charts, filters, and maps to aid data-driven decision-making.
 
-📌 Features:
+**📌 Features:**
 Total Sales Overview – Displays total sales, profit margin, and cost of goods sold (COGS).
 
 Geographical Sales Distribution – A map visualization of sales performance by country and segment.
@@ -15,18 +15,18 @@ Top-Selling Products – A bar chart highlighting the highest revenue-generating
 Interactive Filters – Allows filtering by country, segment, product, and discount band for a customized analysis.
 
 Time-Based Analysis – A date filter to analyze trends across different months, quarters, and years.
-
-📂 Data Source:
+**
+📂 Data Source:**
 The dashboard is built using an Excel dataset with the following columns:
 
 Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, COGS, Profit, Date, Month Number, Month Name, Year.
 
-🛠️ Tools & Technologies:
+**🛠️ Tools & Technologies:**
 Power BI – For data visualization and dashboard creation.
 
 Excel – Used as the primary data source.
 
-🚀 How to Use:
+**🚀 How to Use:**
 Open the .pbix file in Power BI Desktop.
 
 Load the provided dataset (Excel file).
