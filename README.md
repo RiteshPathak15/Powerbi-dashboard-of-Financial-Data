@@ -1,0 +1,2 @@
+# Powerbi-dashboard-of-Financial-Data
+ An interactive Financial Dashboard built with Power BI to analyze sales, profit margins, and costs. It includes visualizations like total sales, sales by country, discount band analysis, top-selling products, and segment-wise sales trends. The dashboard uses an Excel dataset and features dynamic filters for in-depth insights.  🚀 Tech Stack: Power BI | Excel 📂 Data Includes: Sales, COGS, Profit, Discounts, Date, and more.
