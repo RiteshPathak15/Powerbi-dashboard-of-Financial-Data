@@ -30,7 +30,7 @@ Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale 
 3. Explore interactive charts and filters to analyze financial data.  
 
 
-📷 Dashboard Preview:
+## 📷 Dashboard Preview:
 
 # Desktop View:
 ![image](https://github.com/user-attachments/assets/47707d01-9227-4a61-9404-31bf6b0df325)
